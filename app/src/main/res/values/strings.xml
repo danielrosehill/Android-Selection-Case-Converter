@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Case Menu</string>
+    <string name="action_upper">UPPERCASE</string>
+    <string name="action_chaos">ChAoS cAsE</string>
+    <string name="copied">Read-only text: result copied to clipboard</string>
+</resources>
